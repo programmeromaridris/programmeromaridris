@@ -13,3 +13,4 @@ Languages:
 ![Luau](https://img.shields.io/badge/Luau-00A2FF?style=flat&logo=roblox&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white)
 
+Note: I am not an expert in any of these languages lol
